@@ -1,0 +1,56 @@
+body {
+   background: url('11.png') ;
+ background-repeat: repeat;
+ background-size: cover;
+  display: flex;
+  justify-content:center;
+  height: 100vh;
+
+
+
+}
+ 
+  legend{
+    background: beige;
+    border-radius:20px;
+    font-weight:bold; 
+    font-size:20px; 
+     padding: 10px;
+ }
+ 
+ input{
+    padding:6px;
+    color:white ; 
+    margin:15px;
+    border-radius:13px; 
+    background-color: black;
+  }
+
+ label{
+    align-items: center;
+    color:rgb(159, 247, 101) ; 
+    font-size:20px;
+    font-weight: bold;
+ }
+ fieldset{
+     width:400px; 
+    height:400px; 
+    margin:auto; 
+     border:15px solid beige ;  
+     border-radius:40px; 
+     background:rgb(15, 1, 41);
+ }
+ button{
+  background:black;
+  border:black 2px solid ; 
+  border-radius:10px ; 
+    color:rgb(159, 247, 101) ; 
+  font-weight: bold;
+  font-size:20px; 
+  margin: 10px;
+    
+ }
+ p,a
+ {
+  color: chartreuse;
+ }
